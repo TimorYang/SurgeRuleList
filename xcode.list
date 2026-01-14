@@ -1,7 +1,14 @@
-# Xcode / Apple Intelligence
+# Xcode / Apple Intelligence / iCloud Private Relay
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,supportmetrics.apple.com
+
+# iCloud Private Relay (Apple 官方)
+DOMAIN-SUFFIX,mask-api.icloud.com
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com
+
+# Apple Relay 边缘
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
