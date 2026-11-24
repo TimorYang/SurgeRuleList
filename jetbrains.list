@@ -1,14 +1,12 @@
 # JetBrains
-DOMAIN-SUFFIX,jetbrains.com,PROXY
-DOMAIN-SUFFIX,jetbrains.net,PROXY
-DOMAIN-SUFFIX,jetbrains.org,PROXY
-DOMAIN-SUFFIX,jetbrains.space,PROXY
-DOMAIN-SUFFIX,jetbrains.ai,PROXY
-DOMAIN-SUFFIX,jetbrains.cloud,PROXY
-DOMAIN-SUFFIX,jetbrains.com.cn,PROXY
-DOMAIN-SUFFIX,intellij.net,PROXY
-DOMAIN-SUFFIX,kotlinlang.org,PROXY
-DOMAIN-SUFFIX,kotl.in,PROXY
-DOMAIN-SUFFIX,agentclientprotocol.com,PROXY
-DOMAIN-SUFFIX,nodejs.org,PROXY
-DOMAIN-SUFFIX,npmjs.org,PROXY
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.net
+DOMAIN-SUFFIX,jetbrains.org
+DOMAIN-SUFFIX,jetbrains.space
+DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,jetbrains.cloud
+DOMAIN-SUFFIX,jetbrains.com.cn
+DOMAIN-SUFFIX,intellij.net
+DOMAIN-SUFFIX,kotlinlang.org
+DOMAIN-SUFFIX,kotl.in
+DOMAIN-SUFFIX,agentclientprotocol.com
