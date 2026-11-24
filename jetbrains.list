@@ -9,4 +9,12 @@ DOMAIN-SUFFIX,jetbrains.com.cn
 DOMAIN-SUFFIX,intellij.net
 DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,kotl.in
+
+# JetBrains AI Assistant
+DOMAIN-KEYWORD,jetbrains
+DOMAIN-KEYWORD,grazie
+
+# AI Agents
 DOMAIN-SUFFIX,agentclientprotocol.com
+DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,npmjs.org
